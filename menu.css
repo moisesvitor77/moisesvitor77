@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding:0;
+}
+ #nav{
+    background-color:rgb(39, 240, 236);
+    width:100%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 12px 0px 12px 5px;
+ }
+ .menu{
+    display: inline;
+    margin:5px;
+    text-transform: uppercase;
+    color:blanchedalmond;
+    transition:1s ;
+ }
+ .menu:hover{
+    color:saddlebrown;
+    background-color: aliceblue;
+    border-radius: 5pt;
+    transition:1s ;
+ }
+ a{
+    text-decoration: none;
+ }

@@ -1,0 +1,18 @@
+.flexivel{
+    display: flex;
+    flex-wrap: wrap;
+}
+.card{
+    flex: 1 1 201px;
+    background-color: papayawhip;
+    border-radius: 5pt;
+    margin: 5px;
+    margin: 5px;
+    transition: 1s;
+}
+.card:hover{
+    flex: 1 1 300px;
+    background-color: rgb(56, 179, 220);
+    transition: 1s;
+    color: rgb(252, 252, 252);
+}

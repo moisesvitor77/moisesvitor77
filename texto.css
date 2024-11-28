@@ -1,0 +1,39 @@
+h1, h2, h3, p, a{
+    color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1, h2, h3{
+    width: 100%;
+    text-align: center;
+}
+#whatsapp:hover{
+    background-image: linear-gradient(TO RIGHT, GREEN, LIME);
+    border-radius: 20PT;
+    padding: 10PX;
+    transition: 1S;
+    transition: 1S;
+}
+#whatsapp{
+    transition: 1s;
+}
+#instagram.houver{
+    background-image: linear-gradient(to RIGHT, purple, orange);
+    border-radius: 20pt;
+    padding: 10px;
+    transition: 1s;
+}
+#instagram{transition: 1s;}
+#github:hover{
+    background-color: dimgrey;
+    color: white;
+    border-radius: 20pt;
+    padding: 10px;
+    transition: 1s;
+}
+#mail:hover{
+    background-image: linear-gradient(45deg, cyan, blue);
+    border-radius: 20pt;
+    padding: 10px;
+    transition: 1s;
+    
+}
